@@ -134,9 +134,10 @@
 			isa = PBXGroup;
 			children = (
 				33845AD320630C2600800A99 /* ApplicationDelegate */,
+				33845B1D206C139A00800A99 /* Models */,
+				33845AD520630E5F00800A99 /* Views */,
 				33845AD420630E4B00800A99 /* Controllers */,
 				33845AD620630E8C00800A99 /* Supporting Files */,
-				33845AD520630E5F00800A99 /* Views */,
 			);
 			path = ChatKeepcoding;
 			sourceTree = "<group>";
@@ -147,7 +148,6 @@
 				33845AC02063063C00800A99 /* Common */,
 				33845B1E206C13A000800A99 /* Interactors */,
 				33845B1F206C13A700800A99 /* Managers */,
-				33845B1D206C139A00800A99 /* Models */,
 			);
 			path = Network;
 			sourceTree = "<group>";
